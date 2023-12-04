@@ -13,11 +13,15 @@
 6. [설계 문서](#설계-문서)
 7. [팀원 소개 및 역할](#팀원-소개-및-역할)
 
+<br>
+
 # 결과물
 
 - 📽 [UCC](https://pusanackr-my.sharepoint.com/:v:/g/personal/dms5474_pusan_ac_kr/EdFLFrlLxMBOqwpnmU5AFpcB8i__HCUemyAoSYLEVCD7hQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=yN4DKr)
 - 🎤 [중간 발표 자료](https://pusanackr-my.sharepoint.com/:b:/g/personal/dms5474_pusan_ac_kr/EdqbdTJvO5xMirmsH-FE7LIB1RELD5no_qVgf_tEfyeUvA?e=IfhNO9)
 - 🎤 [최종 발표 자료](https://pusanackr-my.sharepoint.com/:b:/g/personal/dms5474_pusan_ac_kr/EQIazOFSy0lGjBriKRBGi4MBoTRXrIuiAs-JDx4IPZ3nWg?e=2JFsFf) 
+
+<br>
 
 # 서비스 화면
 
@@ -76,6 +80,8 @@
 | 마이 페이지                                                                                                                                     | 수정 페이지                                                                            |
 | 마이페이지에서 현재 자신의 점수와 티어를 볼 수 있습니다. 출석을 통해 출석 점수를 얻을 수 있고, 자신이 진행했던 쉐도잉과 노래 받아쓰기, 발음 평가 결과를 볼 수 있습니다. 우측 상단의 언어 선택을 통해 해당 언어로 서비스를 이용할 수 있습니다 | 프로필 사진 및 닉네임을 수정할 수 있으며, 중복 확인을 통해 중복된 닉네임을 사용할 수 없습니다. 로그아웃 시 다시 로그인 페이지로 돌아갑니다. |
 
+<br>
+
 # 주요 기능
 
 ### - 노래 받아쓰기
@@ -85,6 +91,8 @@
 ### - 일상 대화 학습 및 AI발음 평가
 
 ### - 원하는 주제에 대한 챗봇과의 대화
+
+<br>
 
 # 개발 환경
 
@@ -147,6 +155,8 @@
 - Jenkins : `2.414.3`
 - Nginx : `1.25.2`
 
+<br>
+
 # 기술 소개
 
 - 웹 기반 하이브리드 어플리케이션
@@ -192,6 +202,8 @@
   - 문제 : gpt api 특성상 이전 대화 내용을 기억하지 못해서 원활한 대화가 이어지지 않음
   - 해결 : gpt에게 주제 키워드를 알려주고 이전 대화 내용을 함께 전송해서 최대한 관계있는 답변을 유도함
   - 사용 기술 : 프롬프트 작성. gpt에게 상황 주제, 이전 대화 내용을 전달함.
+
+<br>
 
 # 설계 문서
 
@@ -245,6 +257,8 @@
 | ------------------------------------------------------------------------ | --------------------------------------------------------------------- |
 | ![image.png](README_assets/73d0eb2c4e0f672b49e231b2767145e6c75e0960.png) | <img src="README_assets/3c82ad75d723268c68965b512d892b01fbf05b81.PNG" title="" alt="5.PNG" width="250">  |
 | JIRA를 활용하여 매주 목표를 정하고, 스프린트를 작성하여 프로젝트 전체 일정을 관리하였습니다.                   | Git 브랜치 전략과 commit convention을 정하고, 해당 컨벤션을 바탕으로 일관된 커밋 메시지를 작성하였습니다. |
+
+<br>
 
 # 팀원 소개 및 역할
 
