@@ -17,9 +17,9 @@
 
 # 결과물
 
-- 📽 [UCC](https://pusanackr-my.sharepoint.com/:v:/g/personal/dms5474_pusan_ac_kr/EdFLFrlLxMBOqwpnmU5AFpcB8i__HCUemyAoSYLEVCD7hQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0RpcmVjdCJ9fQ&e=yN4DKr)
-- 🎤 [중간 발표 자료](https://pusanackr-my.sharepoint.com/:b:/g/personal/dms5474_pusan_ac_kr/EdqbdTJvO5xMirmsH-FE7LIB1RELD5no_qVgf_tEfyeUvA?e=IfhNO9)
-- 🎤 [최종 발표 자료](https://pusanackr-my.sharepoint.com/:b:/g/personal/dms5474_pusan_ac_kr/EQIazOFSy0lGjBriKRBGi4MBoTRXrIuiAs-JDx4IPZ3nWg?e=2JFsFf) 
+- 📽 [UCC](https://drive.google.com/file/d/1WGv_617ylHGiccd5Zu6pS6PvF5pT7wfX/view?usp=sharing)
+- 🎤 [중간 발표 자료](https://drive.google.com/file/d/1X5VQ5UqBDbBmJELLIsEYtJPGDEFx9Vgp/view?usp=sharing)
+- 🎤 [최종 발표 자료](https://drive.google.com/file/d/1aiQSYhGmpGQOEHBMxT-R9OdBHCh5JIN3/view?usp=sharing) 
 
 <br>
 
