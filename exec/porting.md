@@ -18,7 +18,7 @@
   
   - 디자인 : Figma
   
-  - UCC : Vita
+  - UCC : VLLO, Vita
 
 - **OS**
   - Ubuntu 20.04 LTS
